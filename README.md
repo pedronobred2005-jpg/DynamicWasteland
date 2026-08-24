@@ -632,10 +632,6 @@ COMING SOON
 Discord:
 https://discord.gg/QMMWpz3kDP
 
-GitHub:
-COMING SOON
-
-
 CREDITS
 
 Dynamic Wasteland Project
